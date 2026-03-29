@@ -16,6 +16,8 @@
 * **体积对比直观展示**：上传成功后，自动显示压缩前后的文件大小对比及节省百分比。
 * **极简架构**：纯原生 JS 编写，无需 Webpack/Babel 等复杂构建工具。
 
+ <img src="https://picui.ogmua.cn/s1/2026/03/29/69c92d0cf3f72.webp" alt="maxiaobang_2026-03-29_16-43-05.webp" title="maxiaobang_2026-03-29_16-43-05.webp" />
+
 ### 🚀 安装与使用
 1. 在 Releases 页面下载最新的 `.zip` 压缩包。
 2. 登录 WordPress 后台，进入「插件」 -> 「安装插件」 -> 「上传插件」，选择 ZIP 文件并激活。
