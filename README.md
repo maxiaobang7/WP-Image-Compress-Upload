@@ -1,4 +1,4 @@
-# Image Compress Upload for WordPress | WP 前端图片压缩上传插件
+# WP Image Compress Upload for WordPress | WP 前端图片压缩上传插件
 
 [English](#english) | [中文](#chinese)
 
